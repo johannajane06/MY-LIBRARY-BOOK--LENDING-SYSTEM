@@ -1,0 +1,6 @@
+B001|If It Makes You Happy|Julia Olivia|2025|Available
+B002|Hilang|Mia Azwari|2024|Borrowed
+B003|Twilight Saga|Stephenie Meyer|2008|Available
+B004|Clean Code|Robert Cecil Martin|2008|Borrowed
+B005|Di Sebalik Dinara|Dayang Noor|2012|Borrowed
+B006|Python Basics|John Smith|2023|Available
